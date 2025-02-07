@@ -1,6 +1,6 @@
 
 
-const apiKey = "d8e9f10dbc2b909b3d6242f0aae0c172";
+const apiKey = "f43a94db3bb97a18d8b3cce9c542e8dc";
 const weather = document.querySelector(".weather");
 const searchBar = document.querySelector(".search-bar");
 
